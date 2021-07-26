@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.098d0e75.chunk.css",
+    "main.js": "/static/js/main.cd0e0f21.chunk.js",
+    "main.js.map": "/static/js/main.cd0e0f21.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6ae133dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6ae133dc.js.map",
+    "static/js/2.aa317418.chunk.js": "/static/js/2.aa317418.chunk.js",
+    "static/js/2.aa317418.chunk.js.map": "/static/js/2.aa317418.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.098d0e75.chunk.css.map": "/static/css/main.098d0e75.chunk.css.map",
+    "static/js/2.aa317418.chunk.js.LICENSE.txt": "/static/js/2.aa317418.chunk.js.LICENSE.txt",
+    "static/media/artist.e8bede9e.jpg": "/static/media/artist.e8bede9e.jpg",
+    "static/media/instagram.b0814413.png": "/static/media/instagram.b0814413.png",
+    "static/media/music.c9c0c5b3.png": "/static/media/music.c9c0c5b3.png",
+    "static/media/newsletter.85fc8c36.png": "/static/media/newsletter.85fc8c36.png",
+    "static/media/twitter.e49a64d7.png": "/static/media/twitter.e49a64d7.png",
+    "static/media/youtube.42e40d86.png": "/static/media/youtube.42e40d86.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ae133dc.js",
+    "static/js/2.aa317418.chunk.js",
+    "static/css/main.098d0e75.chunk.css",
+    "static/js/main.cd0e0f21.chunk.js"
+  ]
+}

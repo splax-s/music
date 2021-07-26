@@ -1,0 +1,23 @@
+/* base styles */
+* {
+    margin: 0;
+    font-family: "Quicksand";
+    color: white;
+    background-color: black;
+}
+
+.content{
+    max-width: 1000px;
+    margin: auto;
+}
+
+::-webkit-scrollbar{
+    display:none;
+}
+
+
+
+
+
+
+
